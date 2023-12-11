@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **React , React Native Projects+**
 
-- 👨‍💻 All of my projects are available at [www.tayyabhaseeb.com](www.tayyabhaseeb.com)
+- 👨‍💻 All of my projects are available at [www.tayyabhaseeb.com](https://tayyabhaseeb.netlify.app/)
 
 - 💬 Ask me about **React , Redux , React Router , Front End Development**
 
