@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **React JS Projects**
+- 🔭 I’m currently working on **React JS and Node JS Projects**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Node , Express and MongoDB**
 
-- 👯 I’m looking to collaborate on **React , React Native Projects+**
+- 👯 I’m looking to collaborate on **React , ode , Express and MongoDB Projects**
 
 - 👨‍💻 All of my projects are available at [www.tayyabhaseeb.com](https://tayyabhaseeb.netlify.app/)
 
