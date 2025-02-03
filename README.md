@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **React JS and Node JS Projects**
+- 🔭 I’m currently working on **Full Stack Projects**
 
-- 🌱 I’m currently learning **Node , Express and MongoDB**
+- 🌱 I’m currently learning **How to design database with PSQL for my projects. How to know which tables i need or which junction tables are i need and how to use them **
 
-- 👯 I’m looking to collaborate on **React , ode , Express and MongoDB Projects**
+- 👯 I’m looking to collaborate on **Full Stack Projects(React, Node , Express , Postgres)**
 
 - 👨‍💻 All of my projects are available at [www.tayyabhaseeb.com](https://tayyabhaseeb.netlify.app/)
 
-- 💬 Ask me about **React , Redux , React Router , Front End Development**
+- 💬 Ask me about **React , Redux, React Router, Node, Express, Postgres, Full Stack Development**
 
 - 📫 How to reach me **tayyabhaseeb5@gmail.com**
 
@@ -26,4 +26,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tayyabhaseeb&show_icons=true&locale=en&layout=compact" alt="tayyabhaseeb" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tayyabhaseeb&" alt="tayyabhaseeb" /></p>
+
